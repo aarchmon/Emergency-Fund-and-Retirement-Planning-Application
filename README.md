@@ -1,5 +1,7 @@
 # Emergency Fund and Retirement Planning Application
 
+![Retirement](./images/image_1.png)
+
 ---
 
 ## Technologies
