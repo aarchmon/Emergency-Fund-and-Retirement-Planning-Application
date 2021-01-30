@@ -1,6 +1,6 @@
 # Emergency Fund and Retirement Planning Application
 
-![Retirement](./images/image_1.png)
+![Retirement](./Images/image_1.jpg)
 
 ---
 
