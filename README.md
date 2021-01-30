@@ -43,6 +43,10 @@ pip install seaborn
 
 ## Examples
 
+![](./Images/5-4-monte-carlo-histogram.png)
+
+![](./Images/5-4-monte-carlo-line-plot.png)
+
 ---
 
 ## Usage
